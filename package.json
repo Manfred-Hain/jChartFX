@@ -1,5 +1,5 @@
 {
-  "name": "jChartFX",
+  "name": "jchartfx",
   "description": "Creates JavaScript Charts, Gauges and Maps",
   "version": "7.3.5518",
   "keywords": [ 
@@ -40,7 +40,6 @@
 	"js/jchartfx.coreBasic.js"
   ],
   "ignore": [
-    "/.*",
     "jChartFX.jquery.json",
 	"bower.json"
   ],

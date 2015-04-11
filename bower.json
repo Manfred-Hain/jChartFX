@@ -30,8 +30,8 @@
 	"js/jchartfx.coreBasic.js"
   ],
   "ignore": [
-    "/.*",
-    "jChartFX.jquery.json"
+    "jChartFX.jquery.json",
+	"package.json",
   ],
   "repository": {
 	  "type": "git", 
